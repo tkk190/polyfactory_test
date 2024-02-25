@@ -10,6 +10,7 @@ packages = [{include = "polyfactory_test"}]
 python = "^3.9"
 polyfactory = "^2.14.1"
 pydantic = "^2.6.2"
+sqlmodel = "^0.0.16"
 
 
 [build-system]
